@@ -1,8 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## Function for assignment in week 3 of R Programming
-## First function created a matrix while the second inverts this matrix or retrieves
-## the inverse as cached
+## Richard Day (RichardDayIE)
+## First function creates a matrix while the second inverts this matrix or retrieves
+## the inverse as cached.  Indicates on retrieving the inverse, 
+## if cached that it was cached with a message (getting cached inverse)
 
 ## The first function, makeCacheMatrix creates a special "matrix", 
 ## which is really a list containing a function to
